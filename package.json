@@ -1,0 +1,13 @@
+{
+  "name": "rnv-template-chat",
+  "defaultAppId": "reactseals.rnvtemplatechat",
+  "defaultAppConfigId": "rnv-template-chatExample",
+  "title": "rnv-template-chat",
+  "version": "0.1.0",
+  "dependencies": {
+    "react-native-gesture-handler": "github:kmagiera/react-native-gesture-handler"
+  },
+  "devDependencies": {
+    "react-native-vanilla": "0.18.8"
+  }
+}
